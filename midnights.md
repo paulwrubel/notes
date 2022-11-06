@@ -57,4 +57,4 @@ Scores are relative to other songs in the album only, not all music in general
 | **High Infidelity**                    | 7     | Peak lyricism. Maybe the only "slow" song I like                                     |
 | Glitch                                 | 3     | Odd, but not catchy or interesting                                                   |
 | **Would've, Could've, Should've**      | 6     | I really like the lyricism in this song, and it's decently catchy if not amazing     |
-| **Dear Reader **                       | 6     | Very good closer. Lyricism is also very good here. Slow, so not my jam.              |
+| **Dear Reader**                       | 6     | Very good closer. Lyricism is also very good here. Slow, so not my jam.              |
